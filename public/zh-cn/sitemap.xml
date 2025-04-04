@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/new-csc-blog/zh-cn/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/"
+                href="https://amirgolzan.github.io/new-csc-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/new-csc-blog/ar/"
+                href="https://amirgolzan.github.io/new-csc-blog/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/zh-cn/categories/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/categories/"
+                href="https://amirgolzan.github.io/new-csc-blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/new-csc-blog/ar/categories/"
+                href="https://amirgolzan.github.io/new-csc-blog/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/categories/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/zh-cn/page/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/page/"
+                href="https://amirgolzan.github.io/new-csc-blog/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/page/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/page/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/zh-cn/tags/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/tags/"
+                href="https://amirgolzan.github.io/new-csc-blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/new-csc-blog/ar/tags/"
+                href="https://amirgolzan.github.io/new-csc-blog/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/tags/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/about/"
+                href="https://amirgolzan.github.io/new-csc-blog/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>

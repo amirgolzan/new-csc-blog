@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/new-csc-blog/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/new-csc-blog/ar/"
+                href="https://amirgolzan.github.io/new-csc-blog/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/"
+                href="https://amirgolzan.github.io/new-csc-blog/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/categories/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/categories/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/new-csc-blog/ar/categories/"
+                href="https://amirgolzan.github.io/new-csc-blog/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/categories/"
+                href="https://amirgolzan.github.io/new-csc-blog/categories/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/p/hello-r-markdown/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/p/hello-r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/tags/plot/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/post/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/categories/r/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/tags/r-markdown/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/tags/regression/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/tags/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/tags/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/new-csc-blog/ar/tags/"
+                href="https://amirgolzan.github.io/new-csc-blog/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/tags/"
+                href="https://amirgolzan.github.io/new-csc-blog/tags/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/archives/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/page/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/page/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/page/"
+                href="https://amirgolzan.github.io/new-csc-blog/page/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/tags/markdown/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/tags/markdown/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/p/placeholder-text/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/tags/tag-with-whitespaces/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/categories/test/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/categories/test-with-whitespaces/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/tags/text/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/about/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://amirgolzan.github.io/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/new-csc-blog/about/"
+                href="https://amirgolzan.github.io/new-csc-blog/about/"
                 />
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/links/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/links/</loc>
   </url><url>
-    <loc>http://localhost:4321/new-csc-blog/search/</loc>
+    <loc>https://amirgolzan.github.io/new-csc-blog/search/</loc>
   </url>
 </urlset>
