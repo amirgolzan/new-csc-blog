@@ -1,6 +1,6 @@
 ---
-title: "Hello R Markdown World III"
-authors: ["Frida Gomam"]
+title: "R MARKDOWN START"
+authors: ["AMIR GOLZAN"]
 date: 2024-12-01T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
