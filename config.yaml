@@ -1,0 +1,2 @@
+baseURL: "https://yourusername.github.io/your-repo/"
+publishDir: "docs"

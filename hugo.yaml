@@ -1,6 +1,7 @@
 baseurl: https://amirgolzan.github.io/new-csc-blog/
 languageCode: en-us
 theme: "hugo-theme-stack"
+publishDir: "docs"
 title: Example Site
 copyright: Example Person
 googleAnalytics: "G-PQ1KG9NWP0"
