@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/zh-cn/</loc>
+    <loc>http://localhost:4321/new-csc-blog/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/"
+                href="http://localhost:4321/new-csc-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/ar/"
+                href="http://localhost:4321/new-csc-blog/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/"
+                href="http://localhost:4321/new-csc-blog/zh-cn/"
                 />
   </url><url>
-    <loc>http://localhost:4321/zh-cn/categories/</loc>
+    <loc>http://localhost:4321/new-csc-blog/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/categories/"
+                href="http://localhost:4321/new-csc-blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/ar/categories/"
+                href="http://localhost:4321/new-csc-blog/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/categories/"
+                href="http://localhost:4321/new-csc-blog/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://localhost:4321/zh-cn/page/</loc>
+    <loc>http://localhost:4321/new-csc-blog/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/page/"
+                href="http://localhost:4321/new-csc-blog/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/page/"
+                href="http://localhost:4321/new-csc-blog/zh-cn/page/"
                 />
   </url><url>
-    <loc>http://localhost:4321/zh-cn/tags/</loc>
+    <loc>http://localhost:4321/new-csc-blog/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/tags/"
+                href="http://localhost:4321/new-csc-blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/ar/tags/"
+                href="http://localhost:4321/new-csc-blog/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/tags/"
+                href="http://localhost:4321/new-csc-blog/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://localhost:4321/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>http://localhost:4321/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/about/"
+                href="http://localhost:4321/new-csc-blog/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="http://localhost:4321/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>

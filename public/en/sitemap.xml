@@ -2,112 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/new-csc-blog/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/"
+                href="http://localhost:4321/new-csc-blog/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://localhost:4321/ar/"
+                href="http://localhost:4321/new-csc-blog/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/"
+                href="http://localhost:4321/new-csc-blog/"
                 />
   </url><url>
-    <loc>http://localhost:4321/archives/</loc>
+    <loc>http://localhost:4321/new-csc-blog/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:4321/new-csc-blog/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:4321/new-csc-blog/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4321/new-csc-blog/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/new-csc-blog/p/hello-r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/new-csc-blog/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/new-csc-blog/post/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/new-csc-blog/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/new-csc-blog/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/new-csc-blog/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/new-csc-blog/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:4321/new-csc-blog/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:4321/new-csc-blog/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4321/new-csc-blog/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:4321/new-csc-blog/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/page/</loc>
+    <loc>http://localhost:4321/new-csc-blog/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/page/"
+                href="http://localhost:4321/new-csc-blog/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/page/"
+                href="http://localhost:4321/new-csc-blog/page/"
                 />
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:4321/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/tags/markdown/</loc>
+    <loc>http://localhost:4321/new-csc-blog/tags/markdown/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/p/placeholder-text/</loc>
+    <loc>http://localhost:4321/new-csc-blog/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/</loc>
+    <loc>http://localhost:4321/new-csc-blog/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/tag-with-whitespaces/</loc>
+    <loc>http://localhost:4321/new-csc-blog/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:4321/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4321/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:4321/categories/test/</loc>
+    <loc>http://localhost:4321/new-csc-blog/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/test-with-whitespaces/</loc>
+    <loc>http://localhost:4321/new-csc-blog/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/about/</loc>
+    <loc>http://localhost:4321/new-csc-blog/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:4321/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="http://localhost:4321/new-csc-blog/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/about/"
+                href="http://localhost:4321/new-csc-blog/about/"
                 />
   </url><url>
-    <loc>http://localhost:4321/links/</loc>
+    <loc>http://localhost:4321/new-csc-blog/links/</loc>
   </url><url>
-    <loc>http://localhost:4321/search/</loc>
+    <loc>http://localhost:4321/new-csc-blog/search/</loc>
   </url>
 </urlset>
